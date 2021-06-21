@@ -1,0 +1,16 @@
+********--------Bin Packing (First Fit)--------********
+
+	Placed item of value 0.6 in bin ID 1
+	Placed item of value 0.5 in bin ID 2
+	Placed item of value 0.7 in bin ID 3
+	Placed item of value 0.1 in bin ID 1
+	Placed item of value 0.5 in bin ID 2
+	Placed item of value 0.9 in bin ID 4
+	Placed item of value 0.4 in bin ID 5
+	Placed item of value 0.2 in bin ID 1
+	Placed item of value 0.8 in bin ID 6
+	Total number of bins required for first fit: 6
+
+********--------Bin Packing (Best Fit)--------********
+
+	Total number of bins required for best fit: 6
